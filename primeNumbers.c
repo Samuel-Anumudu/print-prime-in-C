@@ -47,4 +47,4 @@ int main(void) {
     
     prime();
     return 0;
-}
+} 
